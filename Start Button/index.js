@@ -1,4 +1,3 @@
-
 const button = document.querySelector('button')
 let hasFocus = false
 
